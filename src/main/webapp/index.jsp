@@ -10,8 +10,8 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello Everyone</h2>
-      <p class="text-center">GITHUB-Webhook Demo... ...</p>
-      <p class="text-center">Github-Webhook Demo for PollSCM - Jenkins webappln...</p>
+      <p class="text-center">Vishnuraja's...</p>
+      <p class="text-center">Github-Webhook </p>
   </div>
 </body>fo
 </html>
