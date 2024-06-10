@@ -11,7 +11,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello Everyone</h2>
       <p class="text-center">GITHUB-Webhook Demo... ...</p>
-      <p class="text-center">PollSCM - Jenkins webappln...</p>
+      <p class="text-center">Github-Webhook Demo for PollSCM - Jenkins webappln...</p>
   </div>
-</body>
+</body>fo
 </html>
